@@ -16,6 +16,6 @@ My GitHub page is http://github.com/bufordbit.
 
     Lab 3, part 1 was one of my favorite labs because I learned how to write an equation with variables that I would get from code outputting prompts that would ask for the diameter and price of the pizza. Then it would calculate the unit price of the pizza using the equation. 
 
-*Lab 7 Part 1
+* Lab 7 Part 1
 
     Lab 7, part 1 was one of the most difficult labs for me, but it was still one of my favorites because I learned how to use if-else statements to create a loop that allowed me to create a game of Hi-Lo that gave the player multiple turns.
